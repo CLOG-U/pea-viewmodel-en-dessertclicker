@@ -15,9 +15,10 @@
 -->
 <resources>
     <string name="app_name">Dessert Clicker</string>
-    <string name="dessert_sold">Desserts sold</string>
-    <string name="total_revenue">Total Revenue</string>
-    <string name="share">Share</string>
-    <string name="share_text">I\'ve clicked %1$d Desserts for a total of $%2$d #AndroidDessertClicker</string>
-    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="dessert_sold">Postres vendidos</string>
+    <string name="total_revenue">Ingresos totales</string>
+    <string name="share">Compartir</string>
+    <string name="share_text">Vendí %1$d postres y obtuve $%2$d en Dessert Clicker.</string>
+    <string name="sharing_not_available">No hay aplicaciones para compartir</string>
+    <string name="sell_dessert">Vender un postre</string>
 </resources>
